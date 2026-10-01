@@ -1,5 +1,6 @@
 import student
 def loop_1():
+	print("Welcome")
 	studentlist=[]
 	while True:
 		print("Enter -1 to exit")
